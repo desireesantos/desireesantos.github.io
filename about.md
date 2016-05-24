@@ -6,16 +6,8 @@ ref: about
 lang: en
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find this multilanguage theme at :
-{% include icon-github.html username="sylvaindurand" %} /
-[multilingual-jekyll](https://github.com/sylvaindurand/multilingual-jekyll)
+SOFTWARE ENGINEER OF THOUGHTWORKS
 
-You can find the original source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Enthusiastic and passionate about agile methodologies for software development, Desiree currently works as a software consultant at ThoughtWorks Brazil. Since 2009, she has been deeply involved in the movement of open hardware, has developed automation projects and robotics. Coordinates the Arduino community in Rio de Janeiro (​arduinrio​), moderates a forum related with Arduino and Electronics (​arduinoBrasil​) and is a member of ​Matehacker​, a hackerspace in Porto Alegre, Brazil. Besides she also participates in the national and international community embedded systems. Masters Degree student in Computer Science (PUCRS) and graduated in Bachelor of Engineering in Internet Systems (CEFET / RJ).
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)

@@ -1,15 +1,11 @@
-title: Desiree
+# Site settings
+description: A blog about lorem ipsum dolor sit amet
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:3000" # the base hostname & protocol for your site 
+
+# User settings
+username: Desiree Santos
+user_title: Software Engineer | IoT especialist | Maker
 email: desisant@gmail.com
-index:
-  pt: index.html
-  en: index_en.html
-feed:
-  pt: /feed.xml
-  en: /feed.xml
-baseurl: ""
-url: ""
 twitter_username: desisant
 github_username:  desireesantos
-
-# Build settings
-markdown: kramdown
