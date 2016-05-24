@@ -1,11 +1,21 @@
 ---
 layout: page
-title: Sobre
-permalink: /sobre/
+title: About
+permalink: /about/
+ref: about
+lang: en
 ---
 
-Consultora de software na  ThoughtWorks
-Mestranda em Ciência da Computação (PUCRS) e formada em Sistemas para Internet (CEFET/RJ). Entusiasta de Metodologias ágeis e apaixonada por desenvolvimento de software, atualmente trabalha como consultora de software na ThoughtWorks Brasil. 
-Militante no movimento de open software/hardware, desenvolvendo projetos voltados para Internet das coisas. Coordena a comunidade de arduino no RJ (arduinrio) e faz parte do hackerspace de Porto Alegre Matehacker. 
-Participa da comunidade nacional e internacional de embarcados.
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
+You can find this multilanguage theme at :
+{% include icon-github.html username="sylvaindurand" %} /
+[multilingual-jekyll](https://github.com/sylvaindurand/multilingual-jekyll)
+
+You can find the original source code for the Jekyll new theme at:
+{% include icon-github.html username="jglovier" %} /
+[jekyll-new](https://github.com/jglovier/jekyll-new)
+
+You can find the source code for Jekyll at
+{% include icon-github.html username="jekyll" %} /
+[jekyll](https://github.com/jekyll/jekyll)

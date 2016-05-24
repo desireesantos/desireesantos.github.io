@@ -1,11 +1,15 @@
-
-# Site settings
-title: Desiree Santos
+title: Desiree
 email: desisant@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://desireesantos.com" # the base hostname & protocol for your site
+index:
+  pt: index.html
+  en: index_en.html
+feed:
+  pt: /feed.xml
+  en: /feed.xml
+baseurl: ""
+url: ""
 twitter_username: desisant
 github_username:  desireesantos
-facebook_username: desiree.santos.589
+
 # Build settings
 markdown: kramdown
