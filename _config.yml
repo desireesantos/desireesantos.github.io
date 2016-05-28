@@ -5,7 +5,11 @@ url: "http://localhost:3000" # the base hostname & protocol for your site
 
 # User settings
 username: Desiree Santos
-user_title: Software Engineer | IoT especialist | Maker
+user_title:
+  pt: Desenvolvedora | IoT especialista | Maker
+  en: Software Engineer | IoT especialist | Maker
 email: desisant@gmail.com
 twitter_username: desisant
 github_username:  desireesantos
+
+lang:   ['pt', 'en']

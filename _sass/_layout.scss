@@ -10,7 +10,7 @@
     position: relative;
 }
 
-.site-title {
+.site-title{
     font-size: 26px;
     font-weight: 300;
     line-height: 56px;
@@ -22,6 +22,11 @@
     &:visited {
         color: $grey-color-dark;
     }
+}
+
+.site-language{
+    background-color: red;
+    text-align: right;
 }
 
 .site-nav {
