@@ -25,9 +25,12 @@
 }
 
 .site-language{
-    background-color: red;
-    text-align: right;
+        font-size: 1px;
+        text-align: right;
+        margin-left: 950px;
+        top: 20px;   
 }
+
 
 .site-nav {
     float: right;
@@ -166,6 +169,7 @@
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
 }
+
 
 
 
