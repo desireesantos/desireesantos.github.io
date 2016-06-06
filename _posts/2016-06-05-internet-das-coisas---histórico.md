@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "IoT histórico"
-date: 2016-06-05 21:00:00
+title: "Internet das Coisas - histórico"
+date: 2016-06-05 21:43:55
 image: '/assets/img/'
 description: 'Primeiros passos de IoT'
-twitter_text: 'Histórico de Internet das Coisas'
+twitter_text: 'Conheça o histórico de Internet das Coisas'
 categories:
  - IoT
  - História
 tags:
  - IoT
 ---
+
 
 Segundo Albert Einsten _"A mente que se abre a uma nova idéia, jamais voltará ao seu tamanho original"_.  Sabias palavras que reflete o quanto Internet das Coisas promete uma visão ambiciosa e inovadora para o mundo.
 
