@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: pt
 title: "Internet das Coisas - histórico"
 date: 2016-06-05 21:43:55
 image: '/assets/img/'
