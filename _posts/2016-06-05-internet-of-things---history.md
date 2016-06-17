@@ -1,11 +1,11 @@
 ---
 layout: post
 lang: en
-title: "Internet das Coisas - histórico"
+title: "Internet of Things - history"
 date: 2016-06-05 21:43:55
 image: '/assets/img/'
-description: 'Primeiros passos de IoT'
-twitter_text: 'Conheça o histórico de Internet das Coisas'
+description: 'First steps of IoT'
+twitter_text: 'Internet of Things - history'
 categories:
  - IoT
  - História
