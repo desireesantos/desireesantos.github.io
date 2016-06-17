@@ -5,7 +5,7 @@ lang: pt
 ---
 
 <main id="scroll" class="home" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-    {% for post in site.posts %}
+    {% for post in site.posts & site.lang === 'pt' %}
         <article role="article" class="post-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                 <a class="datetime" href="{{ post.url | prepend: site.baseurl }}">
                     <meta itemprop="datePublished" content="{{post.date}}">
