@@ -3,14 +3,24 @@ description: Desiree Santos Blog
 
 # User settings
 username: Desiree Santos
+twitter_username: desisant
+github_username:  desireesantos
+email: desisant@gmail.com
+lang:   ['pt', 'en']
 user_title:
   pt: Developer full stack | Maker
   en: Software Developer full stack | Maker
 index:
   pt: index.html
-  en: index_en.html  
-email: desisant@gmail.com
-twitter_username: desisant
-github_username:  desireesantos
+  en: index_en.html
 
-lang:   ['pt', 'en']
+#About setup
+about_page:
+  pt: ./sobre.html
+  en: ./en/about.html
+
+about:
+  pt: Sobre
+  en: About
+
+
