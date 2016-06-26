@@ -1,5 +1,6 @@
 # Site settings
 description: Desiree Santos Blog
+url: 'desireesantos.com'
 
 # User settings
 username: Desiree Santos
@@ -10,15 +11,16 @@ lang:   ['pt', 'en']
 user_title:
   pt: Developer full stack | Maker
   en: Software Developer full stack | Maker
-index:
-  pt: index.html
-  en: index_en.html
+
+#index setup
+index_page:
+  pt: ./index.html
+  en: ./en/index.html
 
 #About setup
 about_page:
   pt: ./sobre.html
   en: ./en/about.html
-
 about:
   pt: Sobre
   en: About

@@ -1,10 +1,6 @@
 <span class="site-language">
   {% for user in site.lang %}
-  	{% if user == "pt" %}
-		<a href="index.html">{{user}}</a> 
-	{% else %}
-		<a href="index_{{user}}.html">{{user}}</a> 
-{% endif %}
+		<a href="{{site.index_page[page.lang]}}">{{user}}</a> 
   {% endfor %}
 </span>
 
