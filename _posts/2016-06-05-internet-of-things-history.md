@@ -8,7 +8,7 @@ description: 'First steps of IoT'
 twitter_text: 'Internet of Things - history'
 categories:
  - IoT
- - História
+ - History
 tags:
  - IoT
 ---

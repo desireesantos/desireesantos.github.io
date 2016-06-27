@@ -7,7 +7,6 @@ username: Desiree Santos
 twitter_username: desisant
 github_username:  desireesantos
 email: desisant@gmail.com
-lang:   ['pt', 'en']
 user_title:
   pt: Developer full stack | Maker
   en: Software Developer full stack | Maker
@@ -25,4 +24,5 @@ about:
   pt: Sobre
   en: About
 
+lang:   ['pt', 'en']
 
