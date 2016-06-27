@@ -18,8 +18,8 @@ index_page:
 
 #About setup
 about_page:
-  pt: /sobre.html
-  en: /en/about.html
+  pt: ./sobre.html
+  en: ./en/about.html
 about:
   pt: Sobre
   en: About
