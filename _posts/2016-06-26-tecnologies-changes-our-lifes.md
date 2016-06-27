@@ -29,11 +29,11 @@ Almost 50 then came transistors, 200 times smaller than the valve, allowing the 
 
 
 
-    year | Event
+ year    | Event
  ------- | -----------
-* 1947 * | Invention of the silicon transistor component 200 less than valve
-* 1959 * | Integrated circuit (IC) Associating ... diodes and other components miniaturiazlidados
-* 1971 * | Robert Noyce Intel founders creates 4004, first microcomputer in a single chip with central processing unit (CPU)
+  *1947* | Invention of the silicon transistor component 200 less than valve
+  *1959* | Integrated circuit (IC) Associating ... diodes and other components miniaturiazlidados
+  *1971* | Robert Noyce Intel founders creates 4004, first microcomputer in a single chip with central processing unit (CPU)
 
 Events that made possible the birth of the personal computer. Intel launched the famous chips in the PC world: 8008, 8080, 8026, 286, 386, 486, Pentium 1, ...
 The first chips possessed only * * tens of transistors in 2010 already posuiam of hundreds of millions of transistors.
@@ -41,7 +41,7 @@ The first chips possessed only * * tens of transistors in 2010 already posuiam o
 This revolution of the chip and microprocessor was the advent of DVD, CT scan, phone, ...
 A discovery that caused a revolution not only technological, but economic and industrial, social and cultural. We're talking there about 1970 year Brazil won the World Cup for the third, ie a not so distant past!
 
-Seconds researchers, the number of components inside the chip has been doubling every 18 months, as has been happening about 45 years, the chips will reach the limits of molecular dimensions, depleting the miniaturialização process.
+Seconds researchers, the number of components inside the chip has been doubling every 18 months, as has been happening about 45 years, the chips will reach the limits of molecular dimensions, depleting the miniaturialization process.
 The prediction was made by Gordon Moore in the 1960s - called Moore's Law.
 
 

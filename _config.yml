@@ -13,13 +13,13 @@ user_title:
 
 #index setup
 index_page:
-  pt: ./index.html
-  en: ./en/index.html
+  pt: /index.html
+  en: /en/index.html
 
 #About setup
 about_page:
-  pt: ./sobre.html
-  en: ./en/about.html
+  pt: /sobre.html
+  en: /en/about.html
 about:
   pt: Sobre
   en: About
