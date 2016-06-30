@@ -9,7 +9,7 @@ lang: pt
 
 
 
-<p>Entusiasta e apaixonada sobre metodologias ágeis para desenvolvimento de software é consultora de desenvolvimento software na ThoughtWorks Brasil. Mestranda em Ciência da Computação na [PUCRS](http://www.pucrs.br/facin/ppgcc) e se formou no [CEFET/RJ](http://www.cefet-rj.br/index.php/graduacao) em Sistemas para Internet.
+<p>Entusiasta e apaixonada sobre metodologias ágeis para desenvolvimento de software é consultora de desenvolvimento software na ThoughtWorks Brasil. Mestranda em Ciência da Computação na <a href="http://www.pucrs.br/facin/ppgcc/">PUCRS</a> e se formou no <a href="http://www.cefet-rj.br/index.php/graduacao">CEFET/RJ</a> em Sistemas para Internet.
 
-Desde 2009 participa de movimentos para hardware aberto, tem desenvolvido projetos makers de automação e robótica. Coordena a comunidade Arduino no Rio de Janeiro (arduinrio)[http://www.arduinrio.com/], modera um fórum relacionado com Arduino e Eletrônica (arduinoBrasil)[http://arduinobrasil.blogspot.com.br/]. Participa ativamento do Matehacker - hackerspace em Porto Alegre, Brasil.</p>
+Desde 2009 participa de movimentos para hardware aberto, tem desenvolvido projetos makers de automação e robótica. Coordena a comunidade Arduino no Rio de Janeiro <a href="http://www.arduinrio.com/">arduinrio</a>, modera um fórum relacionado com Arduino e Eletrônica <a href="http://arduinobrasil.blogspot.com.br/">arduinoBrasil</a>. Participa ativamento do Matehacker - hackerspace em Porto Alegre, Brasil.</p>
 
