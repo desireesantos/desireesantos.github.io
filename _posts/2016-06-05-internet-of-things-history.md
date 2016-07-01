@@ -21,14 +21,14 @@ To assemble this historic extracts information from scientific articles [1](http
 
 
 ** Part I: Part precursor with several discoveries **
-! [](/ Assets / img / part1.png)
+![](/Assets/img/part1.png)
 
 ** Part II: Start of IoT - ubiquitous computing adopted by Mark Wieser **
-! [](/ Assets / img / part2.png)
+![](/Assets/img/part2.png)
 
 ** Part III: Mike Ashon MIT conhou the term Internet of Things **
-! [](/ Assets / img / part3.png)
+![](/Assets/img/part3.png)
 
 ** Part VI: Dissemination of RFID and business impact **
-! [](/ Assets / img / part4.png)
+![](/Assets/img/part4.png)
  
