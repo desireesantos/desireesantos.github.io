@@ -1,13 +1,15 @@
 ---
+lang: pt
 ---
 [
-  {% for post in site.posts %}
+{% assign posts=site.posts | where:"lang", 'pt' %}
+  {% for post in posts %}
     {
       "title"    : "{{ post.title | escape }}",
       "category" : "{{ post.categories }}",
       "tags"     : "{{ post.tags | array_to_sentence_string }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date | date_to_string}}"
+      "date"     : "{{ page.lang }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
