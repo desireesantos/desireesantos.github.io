@@ -1,11 +1,16 @@
-(function($) {
-    $.fn.simpleJekyllSearch = function(options) {
+(function($, lang) {
+    console.log('ALI', lang)
+    $.fn.simpleJekyllSearch = function(options, lang) {
+        var ptFile = '/search.json',
+            enFile = '/en/search.json';
+            console.log('AQUI', lang)
+
         var settings = $.extend({
-            jsonFile        : '/search.json',
+            jsonFile        : lang == 'pt' ? ptFile : enFile,
             jsonFormat      : 'title,category,desc,url,date,shortdate',
             template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{date}</time></span></a></article></li>',
             searchResults   : '.search-results',
-            searchResultsTitle   : '<h4>Search Results:</h4>',
+            searchResultsTitle   :'<h4>Search Results:</h4>',
             limit           : '5',
             noResults       : '<p>Oh snap!<br/><small>Nothing found! :(</small></p>'
         }, options);

@@ -1,8 +1,8 @@
 ---
-lang: pt
+lang: en
 ---
 [
-{% assign posts=site.posts | where:"lang", 'pt' %}
+{% assign posts=site.posts | where:"lang", 'en' %}
   {% for post in posts %}
     {
       "title"    : "{{ post.title | escape }}",
