@@ -24,18 +24,12 @@
   };
 
   bs.dothis.on('click', function() {
-    $('.search-wrapper').toggleClass('active');
-    bs.searchform.toggleClass('active');
-    bs.searchform.find('input').focus();
-    bs.canvas.toggleClass('search-overlay');
+    _searchDo($, bs)
     $('.search-field').simpleJekyllSearch('en');
   });
 
   bs.dothat.on('click', function() {
-    $('.search-wrapper').toggleClass('active');
-    bs.searchform.toggleClass('active');
-    bs.searchform.find('input').focus();
-    bs.canvas.toggleClass('search-overlay');
+    _searchDo($,bs)
     $('.search-field').simpleJekyllSearch('pt');
   });
 
@@ -50,3 +44,10 @@
     updateURL: false
   })
 })( Zepto, window );
+
+function _searchDo($, bs) {
+   $('.search-wrapper').toggleClass('active');
+    bs.searchform.toggleClass('active');
+    bs.searchform.find('input').focus();
+    bs.canvas.toggleClass('search-overlay');
+}
