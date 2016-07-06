@@ -25,5 +25,8 @@ about:
   pt: Sobre
   en: About
 
+#Google analitycs
+google_analytics: UA-80272150-1
+
 lang:   ['pt', 'en']
 
