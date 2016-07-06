@@ -12,6 +12,11 @@ categories:
 tags:
  - IoT
 ---
+
+{% if jekyll.environment == 'production' %}
+        {% include analytics.html %}
+{% endif %}
+
 According to Albert Einstein _ "The mind that opens to a new idea never returns to its original size" _. Did you know words that reflects how IoT promises an ambitious and innovative vision for the world.
 
 Considering the impact of the increase device number is interesting to know the timeline of IoT.
