@@ -13,10 +13,6 @@ tags:
  - Produtos IoT
 ---
 
-{% if jekyll.environment == 'production' %}
-    {% include analytics.html %}
-{% endif %}
-
 Número de dispositivos como smartphone, tablets, relógios inteligentes e chips ao nosso redor cresce a cada dia. Conhecemos o [histórico](http://localhost:4000/iot/hist%C3%B3ria/2016/06/05/internet-das-coisas-historico.html) sobre Internet das Coisas(IoT) verificamos o quanto as descobertas e amadurecimento das tecnologias contribuiram para _evolução das coisas_.
 A palavra _coisas_ passa denominar objetos, animais, plantas, sistemas de automação.
 
