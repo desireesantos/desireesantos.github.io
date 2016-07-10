@@ -2,7 +2,6 @@
 description: Desiree Santos Blog
 url: http://desireesantos.com
 
-
 # User settings
 username: Desiree Santos
 twitter_username: desisant
@@ -11,6 +10,8 @@ email: desiree@desireesantos.com
 user_title:
   pt: Developer full stack | Maker
   en: Software Developer full stack | Maker
+
+lang:   ['pt', 'en']
 
 #index setup
 index_page:
@@ -28,5 +29,4 @@ about:
 #Google analitycs
 google_analytics: UA-80272150-1
 
-lang:   ['pt', 'en']
 
