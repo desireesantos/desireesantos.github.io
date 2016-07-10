@@ -22,9 +22,7 @@ Antes de 2008 as pessoas interagiam exclusivamente com a internet por meio de di
 
 Após 2008 com número de dispositos mais expressivos, o conceito de objetos passam a ser percebidos com significado e propósito maior. Sendo idealizado como objeto dotado de inteligencia e autonomia para desempenhar funções que qntes precisavam de interação humana.
 
-
-
- 					![Fonte: http://postscapes.com/infographic-cisco-internet-of-things](/assets/img/grafico.png)
+![Fonte: http://postscapes.com/infographic-cisco-internet-of-things](/assets/img/grafico.png) | Fonte: http://postscapes.com/infographic-cisco-internet-of-things |
 
 O gráfico demonstra que cada pessoa tinha pela menos 2 dispositivos em 2008 e que 2020 esse número chegará na casa de bilhões. 
 Esse momento foi um marco, pois antes de 2008 as pessoas interagiam com a internet por meio de dispositivo como exemplo notebook, smartphone ... , mas com o aumento de objetos esse cenário muda.
