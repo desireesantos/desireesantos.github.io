@@ -34,9 +34,9 @@ Há outras lojas, contudo estou indicando essas, pois conheço, confio no servi�
 **Lojas nacionais** 			| **Lojas internacionais** |
 --------------------------------|--------------------------|
 [Huinfinito](huinfinito.com.br) | [Dx](http://www.dx.com/)
-[FilipeFlop](http://www.filipeflop.com/) | [Alibaba](http://www.dx.com/)
-[Webtrônico](http://www.webtronico.com/) | [AliExpress](http://www.dx.com/)
-[Instituto Digital](http://www.institutodigital.com.br/) | [HobbyKing](http://www.dx.com/)
+[FilipeFlop](http://www.filipeflop.com/) | [Alibaba](http://www.alibaba.com/‎)
+[Webtrônico](http://www.webtronico.com/) | [AliExpress](http://www.aliexpress.com/‎)
+[Instituto Digital](http://www.institutodigital.com.br/) | [HobbyKing](http://www.hobbyking.com/)
 [AutoCore Robotica](http://www.autocorerobotica.com.br/) |
 [Eletrodex](http://www.eletrodex.com.br/) |
 [Eletrogate](http://www.eletrogate.com/)  | 
