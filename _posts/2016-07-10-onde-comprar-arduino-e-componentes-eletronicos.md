@@ -24,8 +24,8 @@ Sem contar que contribui para o desenvolvimento do mercado brasileiro.
 
 Lojas virtuais **internacionais** tem ótimas opções, grande variedade tanto no preço quanto no qualidade dos componentes. 
 
-Lojas com _preços mais atrativo_ como [Dx](huinfinito.com.br) e [Ebay](huinfinito.com.br), são produtos genéricos com qualidade mediana, mas atende a demanda. 
-Lojas com _preço mais salgado_, contudo a qualidade dos componentes eletrônicos é excelente como [Adafruit](huinfinito.com.br) e [Sparkfun](huinfinito.com.br).
+Lojas com _preços mais atrativo_ como [Dx](http://www.dx.com/) e [Ebay](http://www.ebay.com), são produtos genéricos com qualidade mediana, mas atende a demanda. 
+Lojas com _preço mais salgado_, contudo a qualidade dos componentes eletrônicos é excelente como [Adafruit](https://www.adafruit.com/) e [Sparkfun](https://www.sparkfun.com/).
 
 O única problema que vejo da loja internacional é o tempo que leva para ser entregue, muitas vezes compro componentes para fazer um projeto que estou empolgada e demora 2 meses para chegar. 
 Há outras lojas, contudo estou indicando essas, pois conheço, confio no serviço e indico.
@@ -35,11 +35,11 @@ Há outras lojas, contudo estou indicando essas, pois conheço, confio no servi�
 --------------------------------|--------------------------|
 [Huinfinito](huinfinito.com.br) | [Dx](http://www.dx.com/)
 [FilipeFlop](http://www.filipeflop.com/) | [Alibaba](http://www.alibaba.com/‎)
-[Webtrônico](http://www.webtronico.com/) | [AliExpress](http://www.aliexpress.com/‎)
-[Instituto Digital](http://www.institutodigital.com.br/) | [HobbyKing](http://www.hobbyking.com/)
-[AutoCore Robotica](http://www.autocorerobotica.com.br/) |
-[Eletrodex](http://www.eletrodex.com.br/) |
-[Eletrogate](http://www.eletrogate.com/)  | 
+[Webtrônico](http://www.webtronico.com/) | [Ebay](http://www.ebay.com)
+[Instituto Digital](http://www.institutodigital.com.br/) | [AliExpress](http://www.aliexpress.com/‎)
+[AutoCore Robotica](http://www.autocorerobotica.com.br/) |[HobbyKing](http://www.hobbyking.com/)
+[Eletrodex](http://www.eletrodex.com.br/) |[Adafruit](https://www.adafruit.com/)
+[Eletrogate](http://www.eletrogate.com/)  | [Sparkfun](https://www.sparkfun.com/)]
 
 
 
