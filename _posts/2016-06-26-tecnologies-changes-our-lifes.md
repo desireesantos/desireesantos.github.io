@@ -13,9 +13,6 @@ tags:
  - Tecnology
  - Evolution
 ---
-{% if jekyll.environment == 'production' %}
-    {% include analytics.html %}
-{% endif %}
 
 The world has become a true digital platform. Everything is reduced to lower bit: music, video, voice, images.
 Binary Digit (Bit) is the smallest unit of information in this digital world.
