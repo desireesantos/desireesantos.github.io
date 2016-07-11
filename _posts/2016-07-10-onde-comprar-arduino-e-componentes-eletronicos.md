@@ -12,7 +12,7 @@ tags:
 categories: 
   - Compras
   - Eletrônica
-twitter_text: "Onde comprar arduino e componenntes eletronico"
+twitter_text: "Onde comprar arduino e componentes eletrônicos"
 ---
 
 Sempre que estou conversando no gtalk, facebook, palestras sempre surge a clássica pergunta   “onde posso comprar arduino e componentes eletrônicos para construir projetos ? ” … Bem pensando nisso resolvi escrever esse post para dar dicas de loja virtual onde costumo comprar. Bem vamos lá, prepare o cartão e vamos as compras !!
