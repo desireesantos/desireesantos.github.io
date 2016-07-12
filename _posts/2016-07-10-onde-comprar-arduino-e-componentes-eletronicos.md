@@ -39,7 +39,7 @@ Há outras lojas, contudo estou indicando essas, pois conheço, confio no servi�
 [Instituto Digital](http://www.institutodigital.com.br/) |[AliExpress](http://www.aliexpress.com/‎)
 [AutoCore Robotica](http://www.autocorerobotica.com.br/) |[HobbyKing](http://www.hobbyking.com/)
 [Eletrodex](http://www.eletrodex.com.br/) |[Adafruit](https://www.adafruit.com/)
-[Eletrogate](http://www.eletrogate.com/)  | [Sparkfun](https://www.sparkfun.com/)]
+[Eletrogate](http://www.eletrogate.com/)  | [Sparkfun](https://www.sparkfun.com/)
 
 
 
