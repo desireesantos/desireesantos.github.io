@@ -1,5 +1,8 @@
 .DS_Store
 .sass-cache
+.git_crypt
+
+
 node_modules
 _site
 
